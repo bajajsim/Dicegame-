@@ -1,0 +1,100 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+div.home.title{
+  justify-content: center;
+  align-items: center;
+}
+div.image img{
+  height: 522px;
+  width: 649px;
+}
+div.intro{
+  width: 528px;
+  height: 188px;
+
+}
+div h1.title{
+  font-size: 96px;
+
+  font-family: 'Poppins', sans-serif;
+
+  font-weight: 700;
+
+
+}
+div Button.play{
+  font-size: 16px;
+  width: 220px;
+}
+div.home{
+  height: 100vh;
+}
+div.diceheader{
+  margin-top: 64px;
+height: 151px;
+}
+div.first p.number{
+font-size: 100px;
+font-weight: 500;
+width: 62px;
+height: 112px;
+
+
+}
+div.first p.text{
+  font-size: 24px;
+  font-weight: 500;
+  width: 135;
+height: 36;
+}
+.box {
+      width: 72px;
+      height: 72px;
+      border: 1px solid black;
+      font-size: 24px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      
+      
+
+}
+div p.para{
+  font-size: 24px;
+        font-weight: 700;
+    align-self: left;
+    margin-bottom: 0;
+}
+div.diceimage{
+  height: 449px;
+}
+div.diceimage Button{
+width: 220px;
+}
+div p.ns{
+  align-self: flex-end;
+  font-size: 24px;
+  margin-bottom: 0;
+}
+div.extra{
+  width: 754px;
+  height: 160px;
+  text-align: left;
+  border: solid black 2px;
+  background-color: #FBF1F1;
+  padding: 20px;
+  margin: 0;
+}
+div.extra h2{
+  font-size: 24px;
+  font-weight: 700;
+
+}
+div.extrap p{
+  font-size: 16px;
+  margin-bottom: 0;
+  
+}
